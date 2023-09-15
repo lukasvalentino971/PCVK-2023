@@ -1,5 +1,5 @@
 ## TUGAS KELOMPOK 
-**PROFIL ANGGOTA KELOMPOK 1**<p>
+**PROFIL ANGGOTA KELOMPOK 03**<p>
 
 | NAMA | NIM | Absen |
 | ----------| :-----------: | :---------:|
