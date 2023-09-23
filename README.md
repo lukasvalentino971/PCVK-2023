@@ -7,4 +7,4 @@
 - Kelas     : 3H
 - Prodi     : D-IV Teknik Informatika
 
-Dosen Pengampu Noprianto
+Dosen Pengampu Bapak Noprianto.
